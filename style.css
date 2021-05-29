@@ -1,0 +1,72 @@
+h1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(232, 115, 255);
+    text-align: center;
+}
+
+.first{
+    background-color:darkorange;
+    color: rgb(255, 30, 30);
+    text-align: center;
+}
+
+.second{
+    color: rgb(30, 255, 206);
+    font-family: 'Lucida Sans';
+}
+
+.images{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.trex{
+    background-color:lightcoral;
+    border: lime;
+    border-style: dashed;
+}
+
+
+.game2{
+    background-color:lightcoral;
+    border: lime;
+    border-style: dashed;
+}
+
+
+.game3{
+    background-color:lightcoral;
+    border: lime;
+    border-style: dashed;
+}
+
+
+.game4{
+    background-color:lightcoral;
+    border: lime;
+    border-style: dashed;
+}
+
+.game5{
+    background-color:lightcoral;
+    border: lime;
+    border-style: dashed;
+}
+
+.logo{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: navy;
+}
+
+*{
+    background-color:yellow;
+}
+           
